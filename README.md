@@ -1,7 +1,3 @@
----
-tags: 
-languages: 
-resources: 
----
+## Sinatra with Database Template
 
-# Hs Sinatra Database Template
+Fork and clone this repository to use as a template for your Sinatra projects with a database. 
